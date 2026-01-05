@@ -1,7 +1,7 @@
 # fall-2025-predicting-short-term-traffic-delays
 Team project: fall-2025-predicting-short-term-traffic-delays
 
-Members: Zhaodong Cai, Manraj Ghumman, Ifunanya Nwogbaga, Aida Mustafanova, Viacheslav Ivanov
+Members: Viacheslav Ivanov, Ifunanya Nwogbaga
 
 Questions:
 How do planned (e.g., work zones) and unplanned (e.g., crashes) events affect short-term traffic delay on arterial and freeway segments? Can integrating these events with real-time traffic speed data improve short-term delay prediction?
